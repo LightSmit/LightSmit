@@ -43,7 +43,7 @@ Telegram-бот, который за 5–15 секунд пересылает н
 
 ### 🛠 Стек
 
-**Языки:** Java · Kotlin · SQL · TypeScript
+**Языки:** Java · Kotlin · SQL · TypeScript · CPP
 
 **Бэкенд:** Spring Boot · Spring Security · JPA / Hibernate · Ktor · REST · JWT
 
